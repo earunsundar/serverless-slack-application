@@ -99,3 +99,16 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# General
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.Trashes
+.VolumeIcon.icns
